@@ -1,8 +1,15 @@
 # HostAdderXampp
 Auto Host adder for xampp on WIn 7+
 
+![ScreenShot](screenshot.png)
+
+## Usage:
+* Fill all info
+* Press add/delete
+* ???
+* Profit
+
 ## TODO:
-* fix icon
 * Add en lang
-* Add normal error logs
-* Add normal error display(perm err)
+* Add no sound mode
+* Try WPF
